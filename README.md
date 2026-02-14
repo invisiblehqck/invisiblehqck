@@ -35,23 +35,23 @@
 
 ## 📊 GitHub Stats  
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=radical)
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=transparent)
 
-![2025 Commit Count](https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=radical)
+![2025 Commit Count](https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=transparent)
 
 ---
 
 ## 🔥 Contribution Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=invisiblehqck&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=invisiblehqck&theme=transparent)
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=invisiblehqck&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=invisiblehqck&theme=transparent)
 
 ---
 
