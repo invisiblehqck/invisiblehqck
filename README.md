@@ -4,62 +4,67 @@
 
 ---
 
-## 🧠 About Me  
-
-- 🚀 Building AI-powered SaaS products  
-- 🤖 Passionate about Artificial Intelligence & Automation  
-- 🌐 Full Stack Developer (Frontend + Backend)  
-- 🐞 Bug Hunter & Security Enthusiast  
-- 🔥 Always learning, always building  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-`Python` `JavaScript` `C++` `SQL`  
-
-### 🎨 Frontend  
-`React` `Next.js` `HTML` `CSS` `Tailwind`  
-
-### ⚙️ Backend  
-`Node.js` `Express` `FastAPI`  
-
-### 🗄️ Database  
-`MongoDB` `MySQL`  
-
-### 🧰 Tools  
-`Git` `GitHub` `Docker` `Linux` `VS Code`  
-
----
-
 ## 📊 GitHub Stats  
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=transparent)
+---
 
-![2025 Commit Count](https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=transparent)
+## 📈 Top Languages  
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact" />
+</picture>
+
+---
+
+## 🔥 2025 Commit Count  
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025" />
+</picture>
 
 ---
 
 ## 🔥 Contribution Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=invisiblehqck&theme=transparent)
-
----
-
-## 🏆 GitHub Trophies  
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=invisiblehqck&theme=transparent)
-
----
-
-## 🌍 Connect With Me  
-
-- 💼 LinkedIn: (Add your link)  
-- 🐦 Twitter/X: (Add your link)  
-- 🌐 Portfolio: (Add your link)  
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=invisiblehqck&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=invisiblehqck&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=invisiblehqck" />
+</picture>
 
 ---
 
