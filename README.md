@@ -1,7 +1,7 @@
 # 🟢 Satyam Gupta  
 ### 🕶️ invisiblehqck  
 
-## 👑 Founder of The AI 👽 Guy  
+## 👑 Founder of The AI 👽 Guy 🤖
 ### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Enthusiast  
 
 <p align="center">
