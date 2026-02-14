@@ -33,8 +33,6 @@
 
 📄 [Download My Resume](https://your-resume-link.com)
 
-*(Replace the link with your actual resume URL after uploading to GitHub or Google Drive)*
-
 ---
 
 # 🛠 #ProgrammingLanguages & Stack
@@ -70,18 +68,21 @@
 
 ---
 
-## 🔎 #SecurityFocus
+# 📊 #GitHubAnalytics
 
-- Web Application Security  
-- Authentication & Session Testing  
-- OWASP Top 10  
-- Bug Hunting  
-- Penetration Testing Basics  
-- Secure AI Architecture  
+### 🔥 1. Hide Contributions & PRs
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&hide=contribs,prs&theme=chartreuse-dark)
 
 ---
 
-# 📊 #GitHubAnalytics
+### ⭐ 2. Show Icons Version
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark)
+
+---
+
+### 🚀 3. Full Premium Version (Clickable)
 
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
