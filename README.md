@@ -1,8 +1,11 @@
 # 🩸 Satyam Gupta  
-### 🕶️ invisiblehqck | Cybersecurity Enthusiast | Ethical Hacker in Progress  
+### 🕶️ invisiblehqck  
+
+## 👑 Founder of The AI 👽 Guy  
+### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Enthusiast  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=Red+Team+Mindset;Bug+Bounty+Hunter+in+Progress;Think+Offensive+Build+Defensive;Future+Security+Researcher;Secure+AI+SaaS+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=Founder+of+The+AI+Guy;AI+Engineer+Enthusiast;Full+Stack+Developer;Bug+Hunter;Red+Team+Mindset;Think+Offensive+Build+Defensive;Future+Security+Researcher;Secure+AI+SaaS+Builder" />
 </p>
 
 ---
@@ -12,19 +15,21 @@
 ```bash
 > Name: Satyam Gupta
 > Alias: invisiblehqck
-> Domain: Cybersecurity & Secure Development
-> Mode: Offensive + Defensive Security
-> Status: Learning | Practicing | Building
+> Role: Founder | Developer | Security Learner
+> Focus: AI + Full Stack + Cybersecurity
+> Mode: Offensive + Defensive
+> Status: Building The Future Securely
 ```
 
 ---
 
-## 🎯 #Mission
+## 🚀 #AboutMe
 
-🔴 Discover vulnerabilities  
-🔴 Exploit safely in lab environments  
-🔴 Understand root cause  
-🔴 Build secure systems  
+🔐 Passionate about Web Security & Ethical Hacking  
+🤖 Building AI-powered SaaS platforms  
+💻 Full Stack Developer with security-first mindset  
+🐛 Bug Hunter in progress  
+🧠 Constantly learning & improving  
 
 > "Attack to understand. Defend to protect."
 
@@ -38,10 +43,11 @@
 ![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-8B0000?style=for-the-badge&logo=php)
 
-### 🌐 Web
+### 🌐 Full Stack
 ![HTML5](https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3)
 ![NodeJS](https://img.shields.io/badge/NodeJS-8B0000?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql)
 
 ### 🛡 Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-8B0000?style=for-the-badge&logo=kalilinux)
@@ -49,9 +55,6 @@
 ![Nmap](https://img.shields.io/badge/Nmap-8B0000?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-8B0000?style=for-the-badge&logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge)
-
-### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-8B0000?style=for-the-badge&logo=mysql)
 
 ---
 
@@ -67,16 +70,12 @@
 
 ---
 
-## 🚀 #Projects
+## 🤖 #AI & SaaS Vision
 
-### 🤖 AI SaaS Platform
-Security-first SaaS automation architecture.
-
-### 🔐 Vulnerability Practice Lab
-Hands-on security testing in controlled environments.
-
-### 🌐 Secure Web Applications
-Building dynamic apps with defensive coding principles.
+- Build Secure AI SaaS Systems  
+- Automate workflows with AI  
+- Design scalable full-stack platforms  
+- Integrate AI with secure architecture  
 
 ---
 
@@ -99,24 +98,25 @@ Building dynamic apps with defensive coding principles.
 ## 🏆 #2026Goals
 
 - 🛡 Earn Ethical Hacking Certification  
+- 🤖 Become Professional AI Engineer  
 - 🧠 Master Web Application Pentesting  
 - 🏴 Participate in CTF Competitions  
 - 💰 Enter Bug Bounty Programs  
-- 🚀 Launch Secure AI SaaS Product  
+- 🚀 Scale The AI Guy Brand  
 
 ---
 
 ## 🧬 #RedTeamLoop
 
 ```python
-def red_team_cycle():
-    discover_vulnerability()
-    exploit_in_lab()
-    document_findings()
-    implement_patch()
+def evolve():
+    learn_ai()
+    build_fullstack()
+    hunt_bugs()
+    secure_systems()
 
 while alive:
-    red_team_cycle()
+    evolve()
 ```
 
 ---
@@ -130,4 +130,8 @@ while alive:
 
 ## 🩸 #HackerManifesto
 
-> Bre
+> Break. Learn. Build. Secure.  
+> AI + Security = Future Power.  
+> Invisible in the system. Visible in the results.  
+
+---
