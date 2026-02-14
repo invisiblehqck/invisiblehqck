@@ -1,8 +1,12 @@
-now this is my readme i want to enhhance my profile by adding more things and make it unique : # 🟢 Satyam Gupta  
+# 🟢 Satyam Gupta  
 ### 🕶️ invisiblehqck  
 
-## 👑 Founder of The AI 👽 Guy 🤖
-### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Expert
+<div align="center">
+
+# 👑 Founder of The AI 👽 Guy 🤖  
+### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Expert  
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&lines=Founder+of+The+AI+Guy;AI+Engineer+Enthusiast;Full+Stack+Developer;Bug+Hunter;Cybersecurity+Learner;Think+Offensive+Build+Defensive;Matrix+Mode+Activated" />
@@ -10,13 +14,15 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 
 ---
 
-## 🟢 Visitor Counter
+# 🟢 Visitor Counter
 
-![](https://komarev.com/ghpvc/?username=invisiblehqck&color=00FF41&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=invisiblehqck&color=00FF41&style=for-the-badge" />
+</p>
 
 ---
 
-## 🧠 #AccessProfile
+# 🧠 #AccessProfile
 
 ```bash
 > Name: Satyam Gupta
@@ -25,11 +31,12 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 > Focus: AI + Full Stack + Cybersecurity
 > Mode: Offensive + Defensive
 > Status: MATRIX EVOLUTION
+> Dimension: 3D Profile Activated
 ```
 
 ---
 
-## 💼 #Resume
+# 💼 #Resume
 
 📄 [Download My Resume](https://your-resume-link.com)
 
@@ -37,7 +44,6 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 
 # 🛠 #ProgrammingLanguages & Stack
 
-### 💻 Core Languages
 ## 💻 Languages
 
 ![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FF41)
@@ -64,12 +70,9 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F1B0F?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00BFFF)
 
-
 ---
 
-## 🛡 #SecurityTools
-
-## 🛡️ Cybersecurity & Pentesting Tools
+# 🛡 #SecurityTools
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=557CFF)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6C37)
@@ -77,30 +80,33 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A2E?style=for-the-badge&logoColor=9B59FF)
 
-
 ---
 
 # 📊 #GitHubAnalytics
 
-### 🔥 1. Hide Contributions & PRs
+## 🔥 Contribution Streak
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&hide=contribs,prs&theme=chartreuse-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=invisiblehqck&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
 
 ---
 
-### ⭐ 2. Show Icons Version
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark)
 
 ---
 
-### 🚀 3. Full Premium Version (Clickable)
-
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🐍 #ContributionSnake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg" />
@@ -108,7 +114,7 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 
 ---
 
-## 🏅 #Certifications (Loading...)
+# 🏅 #Certifications
 
 - 🔄 Ethical Hacking Certification (Upcoming)  
 - 🔄 AI Engineering Certification (Upcoming)  
@@ -116,7 +122,7 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 
 ---
 
-## 🏆 #2026Objectives
+# 🏆 #2026Objectives
 
 - 🛡 Become Certified Ethical Hacker  
 - 🤖 Professional AI Engineer  
@@ -126,7 +132,7 @@ now this is my readme i want to enhhance my profile by adding more things and ma
 
 ---
 
-## 🧬 #MatrixLoop
+# 🧬 #MatrixLoop
 
 ```python
 while True:
@@ -134,20 +140,23 @@ while True:
     build()
     secure()
     evolve()
+    unlock_next_dimension()
 ```
 
 ---
 
-## 📬 #Connect
+# 📬 #Connect
 
 📧 satyamgupta97180@gmail.com  
 🐙 https://github.com/invisiblehqck  
 
 ---
 
-## 🟢 #FinalQuote
+# 🟢 #FinalQuote
 
 > "The Matrix has vulnerabilities. I study them."  
 > — invisiblehqck  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
+</p>
