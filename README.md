@@ -1,119 +1,66 @@
-# 👾 Satyam Gupta
+# 🚀 Satyam Gupta  
+### 👽 Founder of The AI Guy 🤖  
+💻 AI Engineer Enthusiast | Full Stack Developer | Bug Hunter  
 
-### 🧠 AI Engineer \| 🛡️ Bug Hunter \| 🚀 Founder of The AI Guy
+---
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+SaaS+Products;Full+Stack+Developer;Cybersecurity+Explorer;Consistent+Execution+Mode+ON&center=true&width=500&height=45">`{=html}
-```{=html}
-</p>
-```
+## 🧠 About Me  
 
-------------------------------------------------------------------------
+- 🚀 Building AI-powered SaaS products  
+- 🤖 Passionate about Artificial Intelligence & Automation  
+- 🌐 Full Stack Developer (Frontend + Backend)  
+- 🐞 Bug Hunter & Security Enthusiast  
+- 🔥 Always learning, always building  
 
-## 🧬 Who Am I?
+---
 
-``` bash
-> AI-driven builder
-> Full-stack problem solver
-> Security mindset thinker
-> Execution > Motivation
-```
+## 🛠️ Tech Stack  
 
-I build scalable AI systems, secure web applications, and
-automation-first products.\
-Focused on real-world impact, monetization, and long-term tech mastery.
+### 💻 Languages  
+`Python` `JavaScript` `C++` `SQL`  
 
-------------------------------------------------------------------------
+### 🎨 Frontend  
+`React` `Next.js` `HTML` `CSS` `Tailwind`  
 
-## 🛠️ Tech Arsenal
+### ⚙️ Backend  
+`Node.js` `Express` `FastAPI`  
 
-### 👨‍💻 Languages
+### 🗄️ Database  
+`MongoDB` `MySQL`  
 
-`Python` • `JavaScript` • `TypeScript` • `C` • `SQL`
+### 🧰 Tools  
+`Git` `GitHub` `Docker` `Linux` `VS Code`  
 
-### ⚙️ Frameworks & Backend
+---
 
-`React` • `Next.js` • `Node.js` • `Express` • `MongoDB`
+## 📊 GitHub Stats  
 
-### 🤖 AI Stack
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&bg_color=00000000)
 
-`OpenAI API` • `LangChain` • `Vector Databases` • `Prompt Engineering`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&bg_color=00000000)
 
-### 🛡️ Security & Systems
+![2025 Commit Count](https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&bg_color=00000000)
 
-`Linux` • `Kali Linux` • `Burp Suite` • `OWASP Testing`
+---
 
-------------------------------------------------------------------------
+## 🔥 Contribution Streak  
 
-## 📊 GitHub Intelligence Dashboard
+![GitHub Streak](https://streak-stats.demolab.com?user=invisiblehqck&background=00000000)
 
-`<picture>`{=html} `<source
-    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true" />`{=html}
-`</picture>`{=html}
+---
 
-------------------------------------------------------------------------
+## 🏆 GitHub Trophies  
 
-## 📈 Language Distribution (Weighted Algorithm)
+![Trophy](https://github-profile-trophy.vercel.app/?username=invisiblehqck&margin-w=10&margin-h=10&no-bg=true)
 
-`<picture>`{=html} `<source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5"
-    media="(prefers-color-scheme: dark)"
-  />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&size_weight=0.5&count_weight=0.5" />`{=html}
-`</picture>`{=html}
+---
 
-### 🧮 Ranking Formula
+## 🌍 Connect With Me  
 
-    ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+- 💼 LinkedIn: (Add your link)  
+- 🐦 Twitter/X: (Add your link)  
+- 🌐 Portfolio: (Add your link)  
 
-✔ Prevents single large repo domination\
-✔ Rewards consistent language usage\
-✔ Balanced technical representation
+---
 
-------------------------------------------------------------------------
-
-## 🔥 2026 Execution Metrics
-
-`<picture>`{=html} `<source
-    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2026&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2026" />`{=html}
-`</picture>`{=html}
-
-------------------------------------------------------------------------
-
-## ⚡ Contribution Streak
-
-`<picture>`{=html} `<source
-    srcset="https://streak-stats.demolab.com?user=invisiblehqck&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />`{=html}
-`<img src="https://streak-stats.demolab.com?user=invisiblehqck" />`{=html}
-`</picture>`{=html}
-
-------------------------------------------------------------------------
-
-## 🚀 Current Mission
-
--   🧠 Building AI SaaS Products\
--   💰 Creating Automation-Based Income Systems\
--   🛡️ Advancing in Cybersecurity & Bug Bounty\
--   🌍 Scaling "The AI Guy" Brand
-
-------------------------------------------------------------------------
-
-## 📡 Connect
-
--   🐙 GitHub → https://github.com/invisiblehqck\
--   🧠 Brand → **The AI Guy**\
--   📈 Vision → Build. Secure. Scale. Monetize.
-
-------------------------------------------------------------------------
-
-⭐ Built with obsession by **Satyam Gupta**
+⭐️ From [invisiblehqck](https://github.com/invisiblehqck)
