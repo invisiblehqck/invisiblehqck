@@ -38,23 +38,32 @@
 # 🛠 #ProgrammingLanguages & Stack
 
 ### 💻 Core Languages
-![C](https://img.shields.io/badge/C-fffefe?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-fffefe?style=for-the-badge&logo=c-sharp)
-![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-e4e2e2?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-4c71f2?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-e4e2e2?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-4c71f2?style=for-the-badge&logo=php)
+## 💻 Languages
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-00FF41?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00FF41?style=for-the-badge&logo=tailwind-css)
+![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FF41)
+![C#](https://img.shields.io/badge/C%23-1E1E2F?style=for-the-badge&logo=c-sharp&logoColor=9B59FF)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-1B1B1B?style=for-the-badge&logo=java&logoColor=FF3B3B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=00C7FF)
+![PHP](https://img.shields.io/badge/PHP-1A1A2E?style=for-the-badge&logo=php&logoColor=8892FF)
 
-### ⚙ Backend & Database
-![NodeJS](https://img.shields.io/badge/NodeJS-00FF41?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FF41?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-00FF41?style=for-the-badge&logo=mysql)
+---
+
+## 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=2196F3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+---
+
+## ⚙ Backend & Database
+
+![NodeJS](https://img.shields.io/badge/NodeJS-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F1B0F?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00BFFF)
+
 
 ---
 
