@@ -72,7 +72,12 @@
 
 ### 🔥 1. Hide Contributions & PRs
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&hide=contribs,prs&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=tokyonight)
+
+![2025 Commit Count](https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=tokyonight)
+
 
 ---
 
