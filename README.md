@@ -38,13 +38,13 @@
 # 🛠 #ProgrammingLanguages & Stack
 
 ### 💻 Core Languages
-![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/C%23-00FF41?style=for-the-badge&logo=c-sharp)
+![C](https://img.shields.io/badge/C-fffefe?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/C%23-fffefe?style=for-the-badge&logo=c-sharp)
 ![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-00FF41?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF41?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FF41?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/PHP-00FF41?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-e4e2e2?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-4c71f2?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-e4e2e2?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-4c71f2?style=for-the-badge&logo=php)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-00FF41?style=for-the-badge&logo=html5)
