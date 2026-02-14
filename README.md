@@ -1,40 +1,70 @@
-# 🟢 Satyam Gupta  
-### 🕶️ invisiblehqck  
-
-## 👑 Founder of The AI 👽 Guy 🤖
-### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Expert
+### 👽 Founder of The AI Guy 🤖  
+💻 AI Engineer Enthusiast | Full Stack Developer | Bug Hunter  
 
 ---
 
-# 🧠 Neural Network Online
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&lines=Founder+of+The+AI+Guy;AI+Engineer+Enthusiast;Full+Stack+Developer;Bug+Hunter;Cybersecurity+Learner;Think+Offensive+Build+Defensive;Matrix+Mode+Activated" />
-</p>
-
----
-
-## 🟢 Visitor Counter
-![](https://komarev.com/ghpvc/?username=invisiblehqck&color=00FF41&style=for-the-badge)
-
----
-
-## 🔴 Live Status
-
-![Status](https://img.shields.io/badge/Status-Evolving-00FF41?style=for-the-badge)
-![Mode](https://img.shields.io/badge/Mode-Offensive%20%2B%20Defensive-111111?style=for-the-badge)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true" />
+</picture>
 
 ---
 
-## 🧠 #AccessProfile
+## 📈 Top Languages  
 
-```bash
-> Name: Satyam Gupta
-> Alias: invisiblehqck
-> Mission: Build AI. Break Systems. Secure the Future.
-> Focus: AI + Full Stack + Cybersecurity
-> Status: MATRIX EVOLUTION
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact" />
+</picture>
+
+---
+
+## 🔥 2025 Commit Count  
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&commits_year=2025" />
+</picture>
+
+---
+
+## 🔥 Contribution Streak  
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=invisiblehqck&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=invisiblehqck&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=invisiblehqck" />
+</picture>
+
+---
+
+⭐️ From [invisiblehqck](https://github.com/invisiblehqck)
