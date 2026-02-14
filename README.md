@@ -69,11 +69,14 @@
 
 ## 🛡 #SecurityTools
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00FF41?style=for-the-badge&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-00FF41?style=for-the-badge&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-00FF41?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-00FF41?style=for-the-badge)
+## 🛡️ Cybersecurity & Pentesting Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=557CFF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6C37)
+![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Metasploit](https://img.shields.io/badge/Metasploit-1A1A2E?style=for-the-badge&logoColor=9B59FF)
+
 
 ---
 
