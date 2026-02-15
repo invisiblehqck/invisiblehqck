@@ -157,11 +157,9 @@ while True:
 <a href="https://www.instagram.com/the_ai_guy9/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<br/><br/>
-
 </div>
-</div>
+
+
 <div align="center" style="
 max-width:800px;
 margin:60px auto;
