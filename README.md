@@ -183,7 +183,10 @@ Open to internships, freelance projects, security research, and AI engineering r
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
----
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge" />
 </div>
 
 
