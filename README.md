@@ -195,7 +195,6 @@ Open to internships, freelance projects, research work, and development opportun
 <!-- ========================= -->
 <!--        ATTACHMENTS        -->
 <!-- ========================= -->
-<div>
 
 <h2 style="color:#00FF41;">📂 ATTACHMENTS</h2>
 
@@ -213,20 +212,15 @@ Open to internships, freelance projects, research work, and development opportun
 <img src="https://img.shields.io/badge/Certificates-FFD700?style=for-the-badge&logo=googledrive&logoColor=black">
 </a>
 </div>
-</div>
-
-
 
 <!-- ========================= -->
 <!--        FINAL QUOTE        -->
 <!-- ========================= -->
-<div>
 <h2 style="color:#00FF41;">🟢 FINAL QUOTE</h2>
 
 <p style="color:#c9d1d9; font-size:20px; font-style:italic;">
 “Think Offensive. Build Defensive. Engineer the Future.”
 </p>
-</div>
 
 <p style="color:#8b949e;">— invisiblehqck</p>
 
