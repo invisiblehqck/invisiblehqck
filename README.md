@@ -128,25 +128,34 @@ while True:
 
 ---
 
-# 🌐 #OtherProfiles
+# <div align="center">
 
-<p align="center">
-  <a href="(https://www.linkedin.com/in/satyam-gupta-0b0637294/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="(https://x.com/Satyam_Gupta97)">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+  <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
 
-  <a href="https://www.youtube.com/@The_AI_gUi">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
+<a href="https://x.com/Satyam_Gupta97">
+  <img src="https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=black" />
+</a>
 
- <a href="https://www.instagram.com/the_ai_guy9/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.youtube.com/@The_AI_gUi">
+  <img src="https://img.shields.io/badge/YOUTUBE-00FF41?style=for-the-badge&logo=youtube&logoColor=black" />
+</a>
+
+<a href="https://www.instagram.com/the_ai_guy9/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=SUBSCRIBERS&color=00FF41&logo=youtube&logoColor=black" />
+
+</div>
+
 
 
 # 🟢 #FinalQuote
