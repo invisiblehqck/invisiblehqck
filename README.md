@@ -128,7 +128,13 @@ while True:
 
 ---
 
-# <div align="center">
+<div align="center">
+
+<div style="background-color:#0D1117; padding:25px; border-radius:15px; border:1px solid #00FF41; box-shadow: 0 0 15px #00FF41; display:inline-block;">
+
+<h3 style="color:#00FF41;">[ CONNECT TO THE NETWORK ]</h3>
+
+<br/>
 
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
   <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
@@ -146,9 +152,13 @@ while True:
   <img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=YOUTUBE%20SUBSCRIBERS&color=00FF41&logo=youtube&logoColor=black" />
+
 </div>
 
-<br/>
+</div>
 
 <div align="center">
 
