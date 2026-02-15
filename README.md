@@ -162,42 +162,80 @@ while True:
 
 </div>
 </div>
----
-
-# ⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES
-
-AI & Cybersecurity enthusiast building secure, intelligent systems.  
-Open to internships, freelance projects, security research, and AI engineering roles.
-
-### 🔍 Core Focus Areas
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🛡 Web Application Security & Ethical Hacking  
-- 💻 Full Stack Development (Frontend + Backend)  
-- 🐛 Vulnerability Research & Bug Hunting  
-- 🎥 Technical Content Creation (AI & Security)
 
 <div align="center">
 
+<div style="
+background-color:#0D1117;
+padding:30px;
+border-radius:16px;
+border:1px solid #30363d;
+max-width:850px;
+">
+
+<h2 style="color:#00FF41;">⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES</h2>
+
+<p style="color:#c9d1d9; font-size:16px;">
+AI & Cybersecurity enthusiast building secure, intelligent systems.<br/>
+Open to internships, freelance projects, security research, and AI engineering roles.
+</p>
+
+<br/>
+
+<h3 style="color:#00FF41;">🔍 Core Focus Areas</h3>
+
+<div align="left" style="display:inline-block; text-align:left; color:#c9d1d9;">
+
+• 🤖 Artificial Intelligence & Machine Learning <br/>
+• 🛡 Web Application Security & Ethical Hacking <br/>
+• 💻 Full Stack Development (Frontend + Backend) <br/>
+• 🐛 Vulnerability Research & Bug Hunting <br/>
+• 🎥 Technical Content Creation (AI & Security)
+
+</div>
+
+<br/><br/>
+
 <a href="mailto:satyamgupta97180@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge"/>
+
 </div>
 
+</div>
 
+<br/>
 
-# 🟢 #FinalQuote
+<div align="center">
 
-> "Think Offensive. Build Defensive. Engineer the Future."  
-> — invisiblehqck  
+<div style="
+background-color:#0D1117;
+padding:20px;
+border-radius:16px;
+border:1px solid #30363d;
+max-width:850px;
+">
+
+<h3 style="color:#00FF41;">🟢 Final Quote</h3>
+
+<p style="color:#c9d1d9; font-size:18px;">
+“Think Offensive. Build Defensive. Engineer the Future.”
+</p>
+
+<p style="color:#8b949e;">— invisiblehqck</p>
+
+</div>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
 </p>
