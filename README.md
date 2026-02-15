@@ -162,38 +162,84 @@ while True:
 
 </div>
 </div>
-<div class="collab-box" align="center">
+<div align="center" style="
+max-width:800px;
+margin:60px auto;
+padding:30px;
+background:#0D1117;
+border-radius:16px;
+border:1px solid #30363d;
+text-align:center;
+">
 
-<h2 class="collab-title">⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES</h2>
+<h2 style="color:#00FF41; margin-bottom:10px;">
+⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES
+</h2>
 
-<p class="collab-desc">
-AI & Cybersecurity enthusiast building secure, intelligent systems.<br/>
+<p style="color:#c9d1d9;">
+AI & Cybersecurity enthusiast building secure, intelligent systems.<br>
 Open to internships, freelance projects, security research, and AI engineering roles.
 </p>
 
-<h3 class="focus-title">🔍 Core Focus Areas</h3>
+<h3 style="color:#00FF41; margin-top:25px;">🔍 Core Focus Areas</h3>
 
-<ul class="focus-list">
-  <li>🤖 Artificial Intelligence & Machine Learning</li>
-  <li>🛡 Web Application Security & Ethical Hacking</li>
-  <li>💻 Full Stack Development (Frontend + Backend)</li>
-  <li>🐛 Vulnerability Research & Bug Hunting</li>
-  <li>🎥 Technical Content Creation (AI & Security)</li>
+<ul style="
+display:inline-block;
+text-align:left;
+color:#c9d1d9;
+line-height:1.8;
+padding-left:0;
+list-style-position:inside;
+">
+
+<li>🤖 Artificial Intelligence & Machine Learning</li>
+<li>🛡 Web Application Security & Ethical Hacking</li>
+<li>💻 Full Stack Development (Frontend + Backend)</li>
+<li>🐛 Vulnerability Research & Bug Hunting</li>
+<li>🎥 Technical Content Creation (AI & Security)</li>
+
 </ul>
 
-<br/>
+<br><br>
 
 <a href="mailto:satyamgupta97180@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge">
 
 </div>
+
+
+<div align="center">
+
+<div style="
+background-color:#0D1117;
+padding:20px;
+border-radius:16px;
+border:1px solid #30363d;
+max-width:850px;
+">
+
+<h3 style="color:#00FF41;">🟢 Final Quote</h3>
+
+<p style="color:#c9d1d9; font-size:18px;">
+“Think Offensive. Build Defensive. Engineer the Future.”
+</p>
+
+<p style="color:#8b949e;">— invisiblehqck</p>
+
+</div>
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
+</p>
 
