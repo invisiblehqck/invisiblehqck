@@ -11,8 +11,9 @@
 
 <!-- INTRO TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&lines=👋;I'+m;Satyam+Gupta; +Founder+of+The+AI+Guy;AI+Engineer+Enthusiast;Full+Stack+Developer;Bug+Hunter;Cybersecurity+Learner;Think+Offensive+Build+Defensive;Matrix+Mode+Activated" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&lines=👋;I'm+Satyam+Gupta;Founder+of+The+AI+Guy;AI+Engineer+Enthusiast;Full+Stack+Developer;Bug+Hunter;Cybersecurity+Learner;Think+Offensive+Build+Defensive;Matrix+Mode+Activated" />
 </p>
+
 
 <h3 align="center">👑 Founder of The AI 👽 Guy🤖 | AI Engineer | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Practitioner</h3>
 
