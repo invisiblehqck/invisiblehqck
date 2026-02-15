@@ -128,17 +128,26 @@ while True:
 
 ---
 
-# 🧬 #NetworkNodes
+# 🌐 #OtherProfiles
 
-```bash
-> LinkedIn      : https://linkedin.com/in/yourprofile
-> Portfolio     : https://yourportfolio.com
-> TryHackMe     : https://tryhackme.com/p/yourusername
-> HackTheBox    : https://app.hackthebox.com/profile/yourid
-> Twitter (X)   : https://x.com/yourhandle
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/yourhandle">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 
+  <a href="https://tryhackme.com/p/yourusername">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
 
----
+  <a href="https://app.hackthebox.com/profile/yourid">
+    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+  </a>
+</p>
+
 
 # 🟢 #FinalQuote
 
