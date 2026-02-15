@@ -134,15 +134,6 @@ while True:
 <!--        CONNECT WITH ME    -->
 <!-- ========================= -->
 
-<div align="center" style="
-max-width:800px;
-margin:60px auto;
-padding:30px;
-background:#0D1117;
-border-radius:16px;
-border:1px solid #30363d;
-">
-
 <h2 style="color:#00FF41;">🌐 CONNECT WITH ME</h2>
 
 <br>
@@ -175,15 +166,6 @@ border:1px solid #30363d;
 <!--   AVAILABLE FOR COLLAB    -->
 <!-- ========================= -->
 
-<div align="center" style="
-max-width:900px;
-margin:60px auto;
-padding:35px;
-background:#0D1117;
-border-radius:20px;
-border:1px solid #30363d;
-">
-
 <h2 style="color:#00FF41;">
 🤝 AVAILABLE FOR COLLABORATION
 </h2>
@@ -193,14 +175,6 @@ Open to internships, freelance projects, research work, and development opportun
 </p>
 
 <h3 style="color:#00FF41; margin-top:25px;">🔍 Focus Areas</h3>
-
-<ul style="
-display:inline-block;
-text-align:left;
-color:#c9d1d9;
-line-height:1.9;
-list-style-position:inside;
-">
 
 <li>Artificial Intelligence & Machine Learning</li>
 <li>Web Security & Ethical Hacking</li>
@@ -221,15 +195,6 @@ list-style-position:inside;
 <!-- ========================= -->
 <!--        ATTACHMENTS        -->
 <!-- ========================= -->
-
-<div align="center" style="
-max-width:800px;
-margin:60px auto;
-padding:30px;
-background:#0D1117;
-border-radius:16px;
-border:1px solid #30363d;
-">
 
 <h2 style="color:#00FF41;">📂 ATTACHMENTS</h2>
 
@@ -254,15 +219,6 @@ border:1px solid #30363d;
 <!-- ========================= -->
 <!--        FINAL QUOTE        -->
 <!-- ========================= -->
-
-<div align="center" style="
-max-width:750px;
-margin:60px auto 100px auto;
-padding:30px;
-background:#0D1117;
-border-radius:16px;
-border:1px solid #30363d;
-">
 
 <h2 style="color:#00FF41;">🟢 FINAL QUOTE</h2>
 
