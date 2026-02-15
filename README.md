@@ -147,16 +147,16 @@ border:1px solid #30363d;
 
 <br>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:satyamgupta97180@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github">
+<a href="https://x.com/Satyam_Gupta97">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 </div>
