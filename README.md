@@ -180,7 +180,7 @@ max-width:850px;
 margin:60px auto;
 padding:35px;
 background:#0D1117;
-border-radius:16px;
+border-radius:20px;
 border:1px solid #30363d;
 ">
 
