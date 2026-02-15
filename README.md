@@ -195,6 +195,7 @@ Open to internships, freelance projects, research work, and development opportun
 <!-- ========================= -->
 <!--        ATTACHMENTS        -->
 <!-- ========================= -->
+<div>
 
 <h2 style="color:#00FF41;">📂 ATTACHMENTS</h2>
 
@@ -211,7 +212,7 @@ Open to internships, freelance projects, research work, and development opportun
 <a href="YOUR_CERTIFICATES_LINK">
 <img src="https://img.shields.io/badge/Certificates-FFD700?style=for-the-badge&logo=googledrive&logoColor=black">
 </a>
-
+</div>
 </div>
 
 
