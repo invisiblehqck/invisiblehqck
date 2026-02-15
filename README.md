@@ -160,16 +160,22 @@ while True:
 
 </div>
 
-</div>
+---
 
-<br/>
-<hr/>
+# ⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES
 
+AI & Cybersecurity enthusiast building secure, intelligent systems.  
+Open to internships, freelance projects, security research, and AI engineering roles.
+
+### 🔍 Core Focus Areas
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🛡 Web Application Security & Ethical Hacking  
+- 💻 Full Stack Development (Frontend + Backend)  
+- 🐛 Vulnerability Research & Bug Hunting  
+- 🎥 Technical Content Creation (AI & Security)
+
+---
 <div align="center">
-
-<h3 style="color:#00FF41;">⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES ⚡</h3>
-
-<br/>
 
 <a href="mailto:satyamgupta97180@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -178,11 +184,24 @@ while True:
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://www.youtube.com/@The_AI_gUi">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/the_ai_guy9/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Projects%20%7C%20Freelance-00FF41?style=for-the-badge&logo=target&logoColor=black" />
+<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge" />
 
 </div>
+
+
+
+
 
 
 
