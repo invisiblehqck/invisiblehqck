@@ -90,8 +90,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+ </p>
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
+
 
 
 ---
