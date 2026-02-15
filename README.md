@@ -1,3 +1,25 @@
+<!-- ================= HEADER BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Satyam%20Gupta&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity&descAlignY=55&descAlign=50"/>
+</p>
+
+<!-- PROFILE IMAGE -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/invisiblehqck" width="160" style="border-radius:50%;" />
+</p>
+
+<!-- INTRO TEXT -->
+<h1 align="center">Hi 👋 I'm Satyam Gupta</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • Security Learner</h3>
+
+<p align="center">
+  🌐 Portfolio: https://www.linkedin.com/in/satyam-gupta-0b0637294/
+</p>
+
+<hr>
+
+
 # 🟢 Satyam Gupta  
 ### 🕶️ invisiblehqck  
 
