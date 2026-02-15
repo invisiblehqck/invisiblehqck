@@ -162,6 +162,29 @@ while True:
 
 </div>
 
+<br/>
+<hr/>
+
+<div align="center">
+
+<h3 style="color:#00FF41;">⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES ⚡</h3>
+
+<br/>
+
+<a href="mailto:satyamgupta97180@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Projects%20%7C%20Freelance-00FF41?style=for-the-badge&logo=target&logoColor=black" />
+
+</div>
+
+
 
 # 🟢 #FinalQuote
 
