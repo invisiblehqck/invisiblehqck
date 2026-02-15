@@ -219,12 +219,13 @@ Open to internships, freelance projects, research work, and development opportun
 <!-- ========================= -->
 <!--        FINAL QUOTE        -->
 <!-- ========================= -->
-
+<div>
 <h2 style="color:#00FF41;">🟢 FINAL QUOTE</h2>
 
 <p style="color:#c9d1d9; font-size:20px; font-style:italic;">
 “Think Offensive. Build Defensive. Engineer the Future.”
 </p>
+</div>
 
 <p style="color:#8b949e;">— invisiblehqck</p>
 
