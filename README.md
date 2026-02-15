@@ -162,39 +162,26 @@ while True:
 
 </div>
 </div>
+<div class="collab-box" align="center">
 
-<div align="center">
+<h2 class="collab-title">⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES</h2>
 
-<div style="
-background-color:#0D1117;
-padding:30px;
-border-radius:16px;
-border:1px solid #30363d;
-max-width:850px;
-">
-
-<h2 style="color:#00FF41;">⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES</h2>
-
-<p style="color:#c9d1d9; font-size:16px;">
+<p class="collab-desc">
 AI & Cybersecurity enthusiast building secure, intelligent systems.<br/>
 Open to internships, freelance projects, security research, and AI engineering roles.
 </p>
 
+<h3 class="focus-title">🔍 Core Focus Areas</h3>
+
+<ul class="focus-list">
+  <li>🤖 Artificial Intelligence & Machine Learning</li>
+  <li>🛡 Web Application Security & Ethical Hacking</li>
+  <li>💻 Full Stack Development (Frontend + Backend)</li>
+  <li>🐛 Vulnerability Research & Bug Hunting</li>
+  <li>🎥 Technical Content Creation (AI & Security)</li>
+</ul>
+
 <br/>
-
-<h3 style="color:#00FF41;">🔍 Core Focus Areas</h3>
-
-<div align="left" style="display:inline-block; text-align:left; color:#c9d1d9;">
-
-• 🤖 Artificial Intelligence & Machine Learning <br/>
-• 🛡 Web Application Security & Ethical Hacking <br/>
-• 💻 Full Stack Development (Frontend + Backend) <br/>
-• 🐛 Vulnerability Research & Bug Hunting <br/>
-• 🎥 Technical Content Creation (AI & Security)
-
-</div>
-
-<br/><br/>
 
 <a href="mailto:satyamgupta97180@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -210,32 +197,3 @@ Open to internships, freelance projects, security research, and AI engineering r
 
 </div>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<div style="
-background-color:#0D1117;
-padding:20px;
-border-radius:16px;
-border:1px solid #30363d;
-max-width:850px;
-">
-
-<h3 style="color:#00FF41;">🟢 Final Quote</h3>
-
-<p style="color:#c9d1d9; font-size:18px;">
-“Think Offensive. Build Defensive. Engineer the Future.”
-</p>
-
-<p style="color:#8b949e;">— invisiblehqck</p>
-
-</div>
-
-</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
-</p>
