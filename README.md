@@ -148,13 +148,11 @@ while True:
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+<a href="https://www.instagram.com/the_ai_guy9/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
-
-<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=YouTube%20Subscribers&logo=youtube&logoColor=white&color=FF0000" />
 
 </div>
 
