@@ -4,7 +4,8 @@
 <div align="center">
 
 # 👑 Founder of The AI 👽 Guy 🤖  
-### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Expert  
+### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Practitioner
+ 
 
 </div>
 
@@ -20,8 +21,8 @@
 > Role: Founder | AI Enthusiast | Developer | Security Learner
 > Focus: AI + Full Stack + Cybersecurity
 > Mode: Offensive + Defensive
-> Status: MATRIX EVOLUTION
-> Dimension: 3D Profile Activated
+> Status: Building & Learning
+> Dimension: Continuous Improvement
 ```
 
 ---
@@ -99,9 +100,10 @@
 
 # 🏅 #Certifications
 
-- 🔄 Ethical Hacking Certification (Upcoming)  
-- 🔄 AI Engineering Certification (Upcoming)  
-- 🔄 Advanced Web Security (Planned)  
+- 📚 Preparing for Ethical Hacking Certification
+- 📚 Studying AI Engineering Concepts
+- 📚 Advancing Web Security Knowledge
+ 
 
 ---
 
@@ -159,7 +161,7 @@ while True:
 <br/><br/>
 
 </div>
-
+</div>
 ---
 
 # ⚡ AVAILABLE FOR COLLABORATIONS & OPPORTUNITIES
@@ -190,10 +192,10 @@ Open to internships, freelance projects, security research, and AI engineering r
 </div>
 
 
-<br/><br/>
+
 # 🟢 #FinalQuote
 
-> "The Matrix has vulnerabilities. I study them."  
+> "Think Offensive. Build Defensive. Engineer the Future."  
 > — invisiblehqck  
 
 <p align="center">
