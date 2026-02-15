@@ -100,9 +100,11 @@
 
 ---
 
-## 📊 GitHub Stats
+#### 📊 GitHub Stats
 
-![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&cache_seconds=1800" />
+</p>
 
 ---
 
