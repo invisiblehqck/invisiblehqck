@@ -131,20 +131,20 @@ while True:
 # 🌐 #OtherProfiles
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="(https://www.linkedin.com/in/satyam-gupta-0b0637294/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://x.com/yourhandle">
+  <a href="(https://x.com/Satyam_Gupta97)">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
-  <a href="https://tryhackme.com/p/yourusername">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <a href="https://www.youtube.com/@The_AI_gUi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <a href="https://app.hackthebox.com/profile/yourid">
-    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+ <a href="https://www.instagram.com/the_ai_guy9/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
