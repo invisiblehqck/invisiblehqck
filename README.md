@@ -70,12 +70,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A2E?style=for-the-badge&logoColor=9B59FF)
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=invisiblehqck&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
 # 📊 #GitHubAnalytics
 
 <p align="center">
