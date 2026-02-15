@@ -176,7 +176,7 @@ border:1px solid #30363d;
 <!-- ========================= -->
 
 <div align="center" style="
-max-width:850px;
+max-width:900px;
 margin:60px auto;
 padding:35px;
 background:#0D1117;
