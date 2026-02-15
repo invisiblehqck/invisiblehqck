@@ -189,13 +189,8 @@ Open to internships, freelance projects, security research, and AI engineering r
 <img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge" />
 </div>
 
-</div>
 
-
-
-
-
-
+<br/><br/>
 # 🟢 #FinalQuote
 
 > "The Matrix has vulnerabilities. I study them."  
