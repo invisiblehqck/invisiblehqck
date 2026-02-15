@@ -130,35 +130,36 @@ while True:
 
 <div align="center">
 
-<div style="background-color:#0D1117; padding:25px; border-radius:15px; border:1px solid #00FF41; box-shadow: 0 0 15px #00FF41; display:inline-block;">
+<div style="background-color:#0D1117; padding:25px; border-radius:15px; border:1px solid #30363d; display:inline-block;">
 
-<h3 style="color:#00FF41;">[ CONNECT TO THE NETWORK ]</h3>
+<h3 style="color:#00FF41;">[ CONNECT WITH ME ]</h3>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
-  <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://x.com/Satyam_Gupta97">
-  <img src="https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=black" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@The_AI_gUi">
-  <img src="https://img.shields.io/badge/YOUTUBE-00FF41?style=for-the-badge&logo=youtube&logoColor=black" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/the_ai_guy9/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-00FF41?style=for-the-badge&logo=instagram&logoColor=black" />
+<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=YOUTUBE%20SUBSCRIBERS&color=00FF41&logo=youtube&logoColor=black" />
+<img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&label=YouTube%20Subscribers&logo=youtube&logoColor=white&color=FF0000" />
 
 </div>
 
 </div>
+
 
 <div align="center">
 
