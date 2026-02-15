@@ -174,6 +174,20 @@ Open to internships, freelance projects, security research, and AI engineering r
 - 🐛 Vulnerability Research & Bug Hunting  
 - 🎥 Technical Content Creation (AI & Security)
 
+<div align="center">
+
+<a href="mailto:satyamgupta97180@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Status-Actively%20Building%20%26%20Learning-00FF41?style=for-the-badge" />
+
+</div>
+
 ---
 <div align="center">
 
