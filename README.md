@@ -128,10 +128,15 @@ while True:
 
 ---
 
-# 📬 #Connect
+# 🧬 #NetworkNodes
 
-📧 satyamgupta97180@gmail.com  
-🐙 https://github.com/invisiblehqck  
+```bash
+> LinkedIn      : https://linkedin.com/in/yourprofile
+> Portfolio     : https://yourportfolio.com
+> TryHackMe     : https://tryhackme.com/p/yourusername
+> HackTheBox    : https://app.hackthebox.com/profile/yourid
+> Twitter (X)   : https://x.com/yourhandle
+
 
 ---
 
