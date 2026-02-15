@@ -70,10 +70,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1A1A2E?style=for-the-badge&logoColor=9B59FF)
 
----
-
-# 📊 #GitHubAnalytics
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -94,6 +90,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 
