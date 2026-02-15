@@ -10,25 +10,15 @@
 </p>
 
 <!-- INTRO TEXT -->
-<h1 align="center">Hi 👋 I'm Satyam Gupta</h1>
-<h3 align="center">Founder of The AI 👽 Guy🤖 • AI Engineer • Full Stack Developer • Security Learner</h3>
+<h1 align="center">Hi 👋 I'm Satyam Gupta </h1>
+<h3 align="center">👑 Founder of The AI 👽 Guy🤖 • AI Engineer • 💻 Full Stack Developer • 🐛 Bug Hunter • 🛡️ Cybersecurity Practitioner</h3>
 
 <p align="center">
   🌐 Portfolio: https://yourportfolio.com
 </p>
 
 <hr>
-
-
-
-# 🟢 Satyam Gupta  
-### 🕶️ invisiblehqck  
-
 <div align="center">
-
-# 👑 Founder of The AI 👽 Guy 🤖  
-### 🤖 AI Engineer Enthusiast | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Practitioner
- 
 
 </div>
 
