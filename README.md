@@ -11,13 +11,14 @@
 
 <!-- INTRO TEXT -->
 <h1 align="center">Hi 👋 I'm Satyam Gupta</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Security Learner</h3>
+<h3 align="center">Founder of The AI 👽 Guy🤖 • AI Engineer • Full Stack Developer • Security Learner</h3>
 
 <p align="center">
-  🌐 Portfolio: https://www.linkedin.com/in/satyam-gupta-0b0637294/
+  🌐 Portfolio: https://yourportfolio.com
 </p>
 
 <hr>
+
 
 
 # 🟢 Satyam Gupta  
