@@ -70,23 +70,43 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933)
+
+
+---
+
+## ⚙ Backend 
+
+![NodeJS](https://img.shields.io/badge/NodeJS-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+
+---
+
+## 🎨 Design
+
 ![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 
 ---
 
-## ⚙ Backend & Database
+## 🗄 Database
 
-![NodeJS](https://img.shields.io/badge/NodeJS-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FF41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F1B0F?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00BFFF)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ---
 
 # 🛡 #SecurityTools
 
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=557CFF)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6C37)
 ![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logoColor=00FF41)
