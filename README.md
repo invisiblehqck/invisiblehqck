@@ -310,12 +310,11 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake Animation
+<h2 align="center">🐍 Eating My Contributions...</h2>
 
-<img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg"/>
-
-</div>
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg"/>
+</p>
 
 # 🏅 #Certifications
 
