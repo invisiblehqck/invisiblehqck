@@ -153,16 +153,32 @@
 
 </tr>
 </table>
----
 
 ## 🎨 Design
 
-![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+<table>
+<tr>
 
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind UI
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=framer" width="48"/><br>Framer
+</td>
+
+</tr>
+</table>
 
 ---
-
 ## 🗄 Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F1B0F?style=for-the-badge&logo=mongodb&logoColor=47A248)
