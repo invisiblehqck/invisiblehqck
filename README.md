@@ -85,29 +85,13 @@
 
 ## 🌐 Frontend
 
-<table>
-<tr>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>TailwindCSS
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-</td>
-
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722"/>
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=2196F3"/>
+<img src="https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 </tr>
 </table>
 ## ⚙ Backend 
