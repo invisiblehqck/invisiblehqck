@@ -313,10 +313,6 @@
 ## 🐍 Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg" alt="snake dark mode"/>
 </p>
 
