@@ -110,14 +110,49 @@
 </tr>
 </table>
 
-## ⚙ Backend 
+## ⚙ Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FF41)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+<table>
+<tr>
 
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express.js
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🎨 Design
