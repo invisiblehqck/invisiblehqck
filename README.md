@@ -254,21 +254,41 @@
 </tr>
 </table>
 
-# 📊 #GitHubAnalytics
+## 📊 Analytics & Monitoring
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800"/>
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=invisiblehqck&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
-</p>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="48"/><br>Google Analytics
+</td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/>
-</p>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="48"/><br>Grafana
+</td>
 
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="48"/><br>Prometheus
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/kibana/005571" width="48"/><br>Kibana
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48"/><br>Elasticsearch
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="48"/><br>Tableau
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/><br>Power BI
+</td>
+
+</tr>
+</table>
 
 
 ---
