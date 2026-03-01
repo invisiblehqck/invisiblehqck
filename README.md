@@ -306,17 +306,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
----
-
----
-
 ## 🐍 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg" alt="snake dark mode"/>
 </p>
-
----
 
 # 🏅 #Certifications
 
@@ -324,9 +318,6 @@
 - 📚 Studying AI Engineering Concepts
 - 📚 Advancing Web Security Knowledge
  
-
----
-
 # 🏆 #2026Objectives
 
 - 🛡 Become Certified Ethical Hacker  
