@@ -53,14 +53,34 @@
 
 ## 💻 Languages
 
-![C](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FF41)
-![C#](https://img.shields.io/badge/C%23-1E1E2F?style=for-the-badge&logo=c-sharp&logoColor=9B59FF)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-1B1B1B?style=for-the-badge&logo=java&logoColor=FF3B3B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=00C7FF)
-![PHP](https://img.shields.io/badge/PHP-1A1A2E?style=for-the-badge&logo=php&logoColor=8892FF)
-
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+</td>
+</tr>
+</table>
 ---
 
 ## 🌐 Frontend
