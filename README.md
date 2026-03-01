@@ -178,27 +178,81 @@
 </tr>
 </table>
 
----
 ## 🗄 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0F1B0F?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0D1B2A?style=for-the-badge&logo=mysql&logoColor=00BFFF)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+<table>
+<tr>
 
----
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
 
-# 🛡 #SecurityTools
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+</td>
 
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=557CFF)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6C37)
-![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Metasploit](https://img.shields.io/badge/Metasploit-1A1A2E?style=for-the-badge&logoColor=9B59FF)
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=firebase" width="48"/><br>Firebase
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=supabase" width="48"/><br>Supabase
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/sqlite/003B57" width="48"/><br>SQLite
+</td>
+
+</tr>
+</table>
+
+## 🛡 Security Tools
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kali" width="48"/><br>Kali Linux
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48"/><br>Burp Suite
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48"/><br>Wireshark
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/nmap/214478" width="48"/><br>Nmap
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48"/><br>Metasploit
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/owasp/000000" width="48"/><br>OWASP ZAP
+</td>
+
+</tr>
+</table>
 
 # 📊 #GitHubAnalytics
 
