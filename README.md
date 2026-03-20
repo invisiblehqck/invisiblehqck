@@ -280,11 +280,13 @@
 </td>
 
 <td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="48"/><br>Tableau
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="50"/><br>
+  <b>Tableau</b>
 </td>
 
 <td align="center" width="110">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="48"/><br>Power BI
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/><br>
+  <b>Power BI</b>
 </td>
 
 </tr>
