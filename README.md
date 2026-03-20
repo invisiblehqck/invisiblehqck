@@ -280,11 +280,11 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="48"/><br>Tableau
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="48"/><br>Tableau
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/><br>Power BI
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="48"/><br>Power BI
 </td>
 
 </tr>
