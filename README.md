@@ -236,7 +236,8 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.simpleicons.org/nmap/214478" width="48"/><br>Nmap
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50"/><br>
+  <b>Nmap</b>
 </td>
 
 <td align="center" width="110">
