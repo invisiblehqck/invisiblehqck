@@ -293,6 +293,38 @@
 </tr>
 </table>
 
+
+
+## 🧠 LeetCode Journey
+
+<p align="center">
+  <a href="https://leetcode.com/Invisiblehqck/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="65" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Invisiblehqck?theme=dark&font=baloo&ext=heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=Invisiblehqck&theme=dark"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Invisiblehqck/">
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 📈 Progress & Focus
+- 🎯 Goal: 500+ problems  
+- 🔥 Building consistency daily  
+- 🧩 Focus: DSA • Patterns • Interview Prep
+- 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
