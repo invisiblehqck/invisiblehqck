@@ -297,25 +297,7 @@
 
 ## 🧠 LeetCode Journey
 
-<p align="center">
-  <a href="https://leetcode.com/Invisiblehqck/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="65" alt="LeetCode"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Invisiblehqck?theme=dark&font=baloo&ext=heatmap"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Invisiblehqck&theme=dark"/>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/Invisiblehqck/">
-    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<p align="center"> <a href="https://leetcode.com/Invisiblehqck/"> <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="70" alt="LeetCode"/> </a> </p> <p align="center"> <img src="https://leetcard.jacoblin.cool/Invisiblehqck?theme=dark&font=baloo&ext=contest&animation=true"/> </p> <p align="center"> <img src="https://leetcode-stats.vercel.app/api?username=Invisiblehqck&theme=dark&hide_border=true"/> </p> <p align="center"> <a href="https://leetcode.com/Invisiblehqck/"> <img src="https://img.shields.io/badge/Explore%20My%20DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://github.com/invisiblehqck/LeetCode-Solutions"> <img src="https://img.shields.io/badge/My%20Solutions%20Repo-FF5722?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 
 ---
 
