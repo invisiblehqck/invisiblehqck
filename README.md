@@ -29,18 +29,16 @@
 
 
 
-# 🧠
+# 🧠 Profile
 
-'''bash
-> Name: Satyam Gupta
-> Alias: invisiblehqck
-> Role: Founder | AI Enthusiast | Developer | Security Learner
-> Focus: AI + Full Stack + Cybersecurity
-> Mode: Offensive + Defensive
-> Status: Building & Learning
-> Dimension: Continuous Improvement
-
-```
+```bash
+Name      : Satyam Gupta
+Alias     : invisiblehqck
+Role      : Founder | AI Enthusiast | Full Stack Developer | Security Learner
+Focus     : AI • Full Stack • Cybersecurity
+Mode      : Offensive + Defensive
+Status    : Building & Learning
+Mindset   : Continuous Improvement
 
 
 # 💼📄 [Download My Resume]: https://www.linkedin.com/in/satyam-gupta-0b0637294/)
