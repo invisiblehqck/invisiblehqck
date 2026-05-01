@@ -288,7 +288,7 @@ Mindset   : Continuous Improvement
 - 🤖 Professional AI Engineer  
 - 🏴 CTF Competitor  
 - 💰 Bug Bounty Hunter  
-- 🚀 Scale The AI Guy  
+- 🚀 Scale The AI 👽 Guy🤖 
 
 ---
 
