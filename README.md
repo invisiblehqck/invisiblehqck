@@ -29,9 +29,7 @@
 
 
 
-# 🧠 #AccessProfile
-
-```bash
+# 🧠'''bash
 > Name: Satyam Gupta
 > Alias: invisiblehqck
 > Role: Founder | AI Enthusiast | Developer | Security Learner
@@ -41,11 +39,8 @@
 > Dimension: Continuous Improvement
 ```
 
----
 
-# 💼 #Resume
-
-📄 [Download My Resume](https://your-resume-link.com)
+# 💼📄 [Download My Resume]: https://www.linkedin.com/in/satyam-gupta-0b0637294/)
 
 ---
 
@@ -86,7 +81,6 @@
 
 <table>
 <tr>
-
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
 </td>
@@ -114,7 +108,6 @@
 
 <table>
 <tr>
-
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
 </td>
