@@ -29,7 +29,9 @@
 
 
 
-# 🧠'''bash
+# 🧠
+
+'''bash
 > Name: Satyam Gupta
 > Alias: invisiblehqck
 > Role: Founder | AI Enthusiast | Developer | Security Learner
@@ -37,6 +39,7 @@
 > Mode: Offensive + Defensive
 > Status: Building & Learning
 > Dimension: Continuous Improvement
+
 ```
 
 
