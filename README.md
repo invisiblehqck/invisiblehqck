@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=invisiblehqck&label=Profile%20Views&color=00ff41&style=flat" />
 </p>
 
-<h3 align="center">👑 Founder of The AI Guy 🤖 | AI Engineer | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Practitioner</h3>
+<h3 align="center">👑 Founder of The AI GUY 🤖 | AI Engineer | 💻 Full Stack Developer | 🐛 Bug Hunter | 🛡️ Cybersecurity Practitioner</h3>
 
 <p align="center">
 <b>🚀 Building AI Products • Breaking Systems • Securing the Web</b>
