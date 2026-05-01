@@ -245,9 +245,40 @@ Mindset   : Continuous Improvement
 
 # 🏅 Certifications
 
-- 📚 Preparing for Ethical Hacking Certification  
-- 📚 Studying AI Engineering Concepts  
-- 📚 Advancing Web Security Knowledge  
+🔥 Verified certifications from Credly, Google Cloud, and Microsoft
+
+## 🛡 Cybersecurity & Ethical Hacking
+- Ethical Hacking & Security Fundamentals  
+- Web Security (OWASP Top 10)  
+- Network Security & Penetration Testing  
+
+## 🤖 AI & Cloud (Google Cloud / Microsoft)
+- Google Cloud AI & ML Certifications  
+- Microsoft Azure AI Fundamentals  
+- Cloud Computing & Deployment  
+
+## 💻 Full Stack Development
+- MERN Stack Development  
+- Backend APIs & System Design  
+- Frontend Development (React, Tailwind)  
+
+---
+
+## 🌐 Verified Profiles
+
+<p align="center">
+  <a href="https://www.credly.com/users/satyam-gupta.baebe0eb">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/69bcfed0-5a27-4f27-9db0-38f25a34f13b">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/users/universe97/achievements">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
