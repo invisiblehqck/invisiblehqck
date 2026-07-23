@@ -218,27 +218,61 @@ Mindset   : Continuous Improvement
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=invisiblehqck&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=chartreuse-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=invisiblehqck&theme=chartreuse-dark&hide_border=true"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=invisiblehqck&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🐍 Contribution
+# 🐍 Contribution Matrix
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg" alt="snake dark mode"/>
+
+<img 
+src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg"
+/>
+
+</p>
+
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=github-dark&hide_border=true"
+/>
+
 </p>
 
 ---
