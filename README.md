@@ -233,24 +233,8 @@ Mindset   : Continuous Improvement
 
 ---
 
-# 🐍 Contribution Matrix
-
-
 <p align="center">
-
-<img 
-src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg"
-/>
-
-</p>
-
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=github-dark&hide_border=true"
-/>
-
+  <img src="https://raw.githubusercontent.com/invisiblehqck/invisiblehqck/output/github-contribution-grid-snake-dark.svg" alt="snake dark mode"/>
 </p>
 
 ---
