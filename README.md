@@ -222,12 +222,12 @@ Mindset   : Continuous Improvement
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=invisiblehqck&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true"
     height="180"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=invisiblehqck&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&exclude_repo="
     height="180"
   />
 </p>
@@ -235,21 +235,22 @@ Mindset   : Continuous Improvement
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=invisiblehqck&theme=chartreuse-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=invisiblehqck&theme=chartreuse-dark&hide_border=true"
+    height="180"
   />
 </p>
 
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=invisiblehqck&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=invisiblehqck&theme=chartreuse&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
   />
 </p>
 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=invisiblehqck&theme=github-compact&hide_border=true&area=true"
   />
 </p>
 
