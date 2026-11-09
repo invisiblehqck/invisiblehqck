@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/invisiblehqck" width="160" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/invisiblehqck" width="160" alt="Satyam Gupta"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,18 @@
 </p>
 
 <p align="center">
-  🌐 Portfolio: (https://invisiblehqck.github.io/My-Portfolio/)
+  🌐 Portfolio: <a href="https://invisiblehqck.github.io/My-Portfolio/">https://invisiblehqck.github.io/My-Portfolio/</a>
+</p>
+
+<p align="center">
+  <a href="https://invisiblehqck.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <!-- RESUME: currently links to LinkedIn. Once you upload a PDF to a repo, replace with its direct link,
+       e.g. https://github.com/invisiblehqck/invisiblehqck/raw/main/Satyam_Gupta_Resume.pdf -->
+  <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 <hr>
@@ -89,6 +100,7 @@ Mindset   : Continuous Improvement
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express.js</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
@@ -119,6 +131,18 @@ Mindset   : Continuous Improvement
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br>Supabase</td>
 <td align="center" width="110"><img src="https://cdn.simpleicons.org/sqlite/003B57" width="48"/><br>SQLite</td>
+</tr>
+</table>
+
+## 🧰 Tools, Platforms & IoT
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="48"/><br>Arduino / ESP8266</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/clerk/6C47FF" width="48"/><br>Clerk Auth</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48"/><br>Cloudinary</td>
 </tr>
 </table>
 
@@ -165,7 +189,7 @@ Mindset   : Continuous Improvement
 - 🔐 Clerk Authentication  
 - ☁️ Cloudinary Integration  
 
-🔗 Repo: https://github.com/invisiblehqck/AI-SAAS-platform
+🔗 Repo: [https://github.com/invisiblehqck/AI-SAAS-platform](https://github.com/invisiblehqck/AI-SAAS-platform)
 
 ## 🌐 Elink
 
@@ -305,14 +329,19 @@ while True:
 <!--        CONNECT WITH ME    -->
 <!-- ========================= -->
 
-<h2>🌐 CONNECT WITH ME</h2>
+## 🌐 CONNECT WITH ME
 
+<p>
 <a href="mailto:satyamgupta97180@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://invisiblehqck.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://www.youtube.com/@The_AI_gUi">
@@ -326,6 +355,7 @@ while True:
 <a href="https://www.instagram.com/the_ai_guy9/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+</p>
 
 ---
 
@@ -333,13 +363,13 @@ while True:
 <!--   AVAILABLE FOR COLLAB    -->
 <!-- ========================= -->
 
-<h2>🤝 AVAILABLE FOR COLLABORATION</h2>
+## 🤝 AVAILABLE FOR COLLABORATION
 
 <p>
 Open to internships, freelance projects, research work, and development opportunities.
 </p>
 
-<h3>🔍 Focus Areas</h3>
+### 🔍 Focus Areas
 
 <ul>
 <li>Artificial Intelligence & Machine Learning</li>
@@ -359,19 +389,22 @@ Open to internships, freelance projects, research work, and development opportun
 <!--        ATTACHMENTS        -->
 <!-- ========================= -->
 
-<h2>📂 ATTACHMENTS</h2>
+## 📂 ATTACHMENTS
 
-<a href="YOUR_RESUME_LINK">
+<p>
+<!-- RESUME: swap this for a direct PDF link once uploaded -->
+<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
 <img src="https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://invisiblehqck.github.io/My-Portfolio/">
 <img src="https://img.shields.io/badge/View%20Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<a href="YOUR_CERTIFICATES_LINK">
+<a href="https://www.credly.com/users/satyam-gupta.baebe0eb">
 <img src="https://img.shields.io/badge/Certificates-FFD700?style=for-the-badge&logo=googledrive&logoColor=black">
 </a>
+</p>
 
 ---
 
@@ -379,10 +412,11 @@ Open to internships, freelance projects, research work, and development opportun
 <!--        FINAL QUOTE        -->
 <!-- ========================= -->
 
-<h2>🟢 FINAL QUOTE</h2>
+## 🟢 FINAL QUOTE
 
 <p>
 <i>“Build fast. Break smart. Secure everything.”</i>
 </p>
 
 <p>— invisiblehqck</p>
+</document_content>
