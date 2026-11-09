@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/invisiblehqck" width="160" alt="Satyam Gupta"/>
+  <img src="https://avatars.githubusercontent.com/invisiblehqck" width="160" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -23,17 +23,23 @@
 </p>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://invisiblehqck.github.io/My-Portfolio/">https://invisiblehqck.github.io/My-Portfolio/</a>
+  🌐 Portfolio: <a href="https://invisiblehqck.github.io/">https://invisiblehqck.github.io/</a>
+  &nbsp;|&nbsp;
+  📄 Resume: <a href="https://invisiblehqck.github.io/">https://invisiblehqck.github.io/</a>
 </p>
 
 <p align="center">
-  <a href="https://invisiblehqck.github.io/My-Portfolio/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://invisiblehqck.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00FF41?style=for-the-badge&logoColor=black&labelColor=0D1117"/>
   </a>
-  <!-- RESUME: currently links to LinkedIn. Once you upload a PDF to a repo, replace with its direct link,
-       e.g. https://github.com/invisiblehqck/invisiblehqck/raw/main/Satyam_Gupta_Resume.pdf -->
+  <a href="https://invisiblehqck.github.io/">
+    <img src="https://img.shields.io/badge/📄%20Resume-FF5733?style=for-the-badge&labelColor=0D1117"/>
+  </a>
   <a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:satyamgupta97180@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -49,9 +55,11 @@ Focus     : AI • Full Stack • Cybersecurity
 Mode      : Offensive + Defensive
 Status    : Building & Learning
 Mindset   : Continuous Improvement
+Portfolio : https://invisiblehqck.github.io/
+Resume    : https://invisiblehqck.github.io/
 ```
 
-# 💼📄 [Download My Resume](https://www.linkedin.com/in/satyam-gupta-0b0637294/)
+# 💼📄 [Download My Resume](https://invisiblehqck.github.io/)
 
 ---
 
@@ -77,6 +85,9 @@ Mindset   : Continuous Improvement
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
 </tr>
 </table>
@@ -90,6 +101,7 @@ Mindset   : Continuous Improvement
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>TailwindCSS</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="48"/><br>React</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br>Vite</td>
 </tr>
 </table>
 
@@ -100,12 +112,25 @@ Mindset   : Continuous Improvement
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express.js</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br>Next.js</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#</td>
+</tr>
+</table>
+
+## 🤖 AI & Machine Learning
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br>Scikit-learn</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pandas" width="48"/><br>Pandas</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=numpy" width="48"/><br>NumPy</td>
 </tr>
 </table>
 
@@ -134,15 +159,29 @@ Mindset   : Continuous Improvement
 </tr>
 </table>
 
-## 🧰 Tools, Platforms & IoT
+## ☁️ DevOps, Cloud & Tools
 
 <table>
 <tr>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
 <td align="center" width="110"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="48"/><br>Arduino / ESP8266</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/clerk/6C47FF" width="48"/><br>Clerk Auth</td>
-<td align="center" width="110"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="48"/><br>Cloudinary</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br>Vercel</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br>Postman</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>Google Cloud</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br>Azure</td>
+</tr>
+</table>
+
+## 🔌 IoT & Embedded
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="48"/><br>Arduino</td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>Embedded C++</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/espressif/E7352C" width="48"/><br>ESP8266</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/blynk/04C0F8" width="48"/><br>Blynk</td>
 </tr>
 </table>
 
@@ -175,6 +214,17 @@ Mindset   : Continuous Improvement
 </tr>
 </table>
 
+## 🧰 Skills Summary
+
+| Area | Skills |
+|------|--------|
+| **AI** | AI SaaS development, prompt engineering, image generation, resume analysis, AI automation |
+| **Full Stack** | MERN, Next.js, Laravel, REST APIs, authentication (Clerk), media handling (Cloudinary) |
+| **Security** | Web security (OWASP Top 10), bug bounty, network security, pentesting labs, CTFs |
+| **IoT** | ESP8266 NodeMCU, relay control, Blynk / WiFi automation |
+| **Core CS** | Data Structures & Algorithms, problem solving, system design basics |
+| **Other** | Technical content creation, YouTube & social media, founder / product mindset |
+
 ---
 
 # 🚀 Featured Projects
@@ -189,7 +239,7 @@ Mindset   : Continuous Improvement
 - 🔐 Clerk Authentication  
 - ☁️ Cloudinary Integration  
 
-🔗 Repo: [https://github.com/invisiblehqck/AI-SAAS-platform](https://github.com/invisiblehqck/AI-SAAS-platform)
+🔗 Repo: https://github.com/invisiblehqck/AI-SAAS-platform
 
 ## 🌐 Elink
 
@@ -204,6 +254,8 @@ Mindset   : Continuous Improvement
 - 4-Channel Relay Control  
 - Bulb Automation System  
 - Blynk / WiFi Control Setup  
+
+🌐 More projects & details: [invisiblehqck.github.io](https://invisiblehqck.github.io/)
 
 ---
 
@@ -329,9 +381,12 @@ while True:
 <!--        CONNECT WITH ME    -->
 <!-- ========================= -->
 
-## 🌐 CONNECT WITH ME
+<h2>🌐 CONNECT WITH ME</h2>
 
-<p>
+<a href="https://invisiblehqck.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=githubpages&logoColor=black">
+</a>
+
 <a href="mailto:satyamgupta97180@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -340,8 +395,8 @@ while True:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://invisiblehqck.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="https://github.com/invisiblehqck">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.youtube.com/@The_AI_gUi">
@@ -355,7 +410,6 @@ while True:
 <a href="https://www.instagram.com/the_ai_guy9/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-</p>
 
 ---
 
@@ -363,13 +417,13 @@ while True:
 <!--   AVAILABLE FOR COLLAB    -->
 <!-- ========================= -->
 
-## 🤝 AVAILABLE FOR COLLABORATION
+<h2>🤝 AVAILABLE FOR COLLABORATION</h2>
 
 <p>
 Open to internships, freelance projects, research work, and development opportunities.
 </p>
 
-### 🔍 Focus Areas
+<h3>🔍 Focus Areas</h3>
 
 <ul>
 <li>Artificial Intelligence & Machine Learning</li>
@@ -389,22 +443,19 @@ Open to internships, freelance projects, research work, and development opportun
 <!--        ATTACHMENTS        -->
 <!-- ========================= -->
 
-## 📂 ATTACHMENTS
+<h2>📂 ATTACHMENTS</h2>
 
-<p>
-<!-- RESUME: swap this for a direct PDF link once uploaded -->
-<a href="https://www.linkedin.com/in/satyam-gupta-0b0637294/">
+<a href="https://invisiblehqck.github.io/">
 <img src="https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
-<a href="https://invisiblehqck.github.io/My-Portfolio/">
+<a href="https://invisiblehqck.github.io/">
 <img src="https://img.shields.io/badge/View%20Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://www.credly.com/users/satyam-gupta.baebe0eb">
 <img src="https://img.shields.io/badge/Certificates-FFD700?style=for-the-badge&logo=googledrive&logoColor=black">
 </a>
-</p>
 
 ---
 
@@ -412,11 +463,10 @@ Open to internships, freelance projects, research work, and development opportun
 <!--        FINAL QUOTE        -->
 <!-- ========================= -->
 
-## 🟢 FINAL QUOTE
+<h2>🟢 FINAL QUOTE</h2>
 
 <p>
 <i>“Build fast. Break smart. Secure everything.”</i>
 </p>
 
 <p>— invisiblehqck</p>
-</document_content>
